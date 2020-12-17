@@ -1,0 +1,26 @@
+html.dubai {
+  background-image: url('Dubai.jpg');
+  background-repeat: no-repeat; 
+  background-position: center center;  
+  background-attachment: fixed;
+  background-size: 2000px 1000px;
+}
+html.tokyo {
+  background-image: url('tokyo.jpg');
+  background-repeat: no-repeat; 
+  background-position: center center;  
+  background-attachment: fixed;
+  background-size: 2000px 1000px;
+}
+html.sydney {
+  background-image: url('Sydney_skyline.jpg');
+  background-repeat: no-repeat; 
+  background-position: center center;  
+  background-attachment: fixed;
+  background-size: 2000px 1000px;
+}
+.textblock {
+  background-color: rgba(255, 252, 50, 0.705);
+  margin-right: 55%;
+  padding: 20px;  
+}
